@@ -13,3 +13,7 @@ updates:
     directory: "/ruby"
     schedule:
       interval: "weekly"
+  - package-ecosystem: NodeJs
+    directory: "/"
+    schedule:
+      interval: "weekly"
